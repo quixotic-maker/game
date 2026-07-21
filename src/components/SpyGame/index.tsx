@@ -123,7 +123,7 @@ export default function SpyGame({ onToast }: SpyGameProps) {
         </span>
       </h1>
       <p className="mt-3 text-sm leading-relaxed text-grape-800/70">
-        拿到一个场景,用一首歌唱出来。两张很像的卡,卧底那张只有一个细节不一样——但卧底自己,也不知道自己是卧底。
+        每人用一首歌唱出自己的场景。两张卡能唱同一批歌,但情绪指向不同——从他选的歌,猜出谁是卧底。
       </p>
 
       {/* 生成面板 */}

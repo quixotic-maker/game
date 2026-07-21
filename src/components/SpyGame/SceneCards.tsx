@@ -63,7 +63,7 @@ export default function SceneCards({ pair, source, onToast }: SceneCardsProps) {
 
       <div className="mt-4 rounded-xl2 bg-sunny/40 px-4 py-3 text-xs leading-relaxed text-grape-800">
         💡 <span className="font-semibold">主持人记住哪张是卧底词</span>,复制后私发给玩家。
-        每人用一首歌唱出自己的场景,卧底往往唱到最后才发现拿错了词。
+        两张卡能唱同一批歌,但情绪指向有细微差别——卧底往往从选歌情绪里露馅。
       </div>
     </div>
   );
